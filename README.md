@@ -4,7 +4,8 @@ focus on simplicity, accessibility, and efficiency, Gawe-an ensures that the hir
 seekers to streamline the recruitment process. Job seekers benefit from a personalized experience in Gawe-an, where they can explore various job opportunities based on their preferences, education, and work experience. The app allows users to save jobs, apply directly through the platform, and receive notifications for new job postings that match their profile. With real-time updates and a clean, responsive interface, job seekers can stay informed and proactive in their job search. Rudy as the project manager, divide this whole project into four phases. In this first phase
 contract, you as a software developer are asked to develop an android application for the job seekers first. The job seeker can browse jobs, apply, and track their applications through the application.
 
-Instructions
+#Instructions
+
 Since this is only the first phase of the project, the project owner ask you to complete the
 project within 3 hours.
 The back end developer already provided you the RestAPI that you can use in this project. The
