@@ -8,10 +8,8 @@ contract, you as a software developer are asked to develop an android applicatio
 
 Since this is only the first phase of the project, the project owner ask you to complete the
 project within 3 hours.
-The back end developer already provided you the RestAPI that you can use in this project.
-The swagger documentation can be accessed at http://localhost:5000/swagger.
-
-To access image from the RestAPI, you can use http://localhost:5000/images/[imageName].
+The back end developer already provided you the RestAPI that you can use in this project.  
+The swagger documentation can be accessed at http://localhost:5000/swagger.  To access image from the RestAPI, you can use http://localhost:5000/images/[imageName].
 
 Dummy user account are located at “User Login.jpg” file at the project folder.
 Please note some of these important points:
